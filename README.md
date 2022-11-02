@@ -39,11 +39,9 @@ WHEN I refresh the page
 
 THEN the saved events persist
 
+## Mock Up
 
-
-
-
-
+The following image demonstrates the application appearance:
 
 
 
@@ -52,3 +50,13 @@ THEN the saved events persist
 ![image](https://user-images.githubusercontent.com/111001779/199599555-28b839ba-f222-42bc-b6d8-716ccd58ab5f.png)
 
 
+
+
+
+The following is the url to the diplyed web application: https://mattiemarie.github.io/code_quiz_web_apis/
+
+
+
+## Description
+
+The goal of Challenge 04 was to create a Code Quiz using HTML, CSS, and JavaScript. The user is able to take a 60 second timed quiz asking 5 multiple choice questions about JavaScript. If the user gets a question correct 20 points is added to their score, if the user gets a question incorrect 10 seconds will be deducted from their time. At the end of the quiz the user is able to save their score to the leader board.
