@@ -59,4 +59,4 @@ The following is the url to the diplyed web application: https://mattiemarie.git
 
 ## Description
 
-The goal of Challenge 04 was to create a Code Quiz using HTML, CSS, and JavaScript. The user is able to take a 60 second timed quiz asking 5 multiple choice questions about JavaScript. If the user gets a question correct 20 points is added to their score, if the user gets a question incorrect 10 seconds will be deducted from their time. At the end of the quiz the user is able to save their score to the leader board.
+The goal of Challenge 05 was to create an editable Work Day Scheduler that allows the user to add tasks to be completed throughout the workday (9am- 5pm). The tasks will be saved to the workday scheduler until the user manually changes/deletes them.
