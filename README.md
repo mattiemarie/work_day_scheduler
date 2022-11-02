@@ -53,8 +53,7 @@ The following image demonstrates the application appearance:
 
 
 
-The following is the url to the diplyed web application: https://mattiemarie.github.io/code_quiz_web_apis/
-
+The following is the url to the diplyed web application: https://mattiemarie.github.io/work_day_scheduler/
 
 
 ## Description
